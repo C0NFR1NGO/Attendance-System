@@ -52,7 +52,7 @@ To run this script successfully, you will need a few system requirements and Pyt
 
 * **C++ Compiler:** Because the `face_recognition` library depends on `dlib`, you often need a C++ compiler installed on your system (e.g., Visual Studio Build Tools on Windows, or `build-essential` on Linux/macOS) to build `dlib` successfully.
 
-* **A Folder named imagesBasic containing photos of people (jpg) to mark attendance for , for the program to reference with.
+* A Folder named imagesBasic containing photos of people (jpg) to mark attendance for , for the program to reference with.
 
 
 
